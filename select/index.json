@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花図鑑",
+  "base_artist": "RIRIKO",
+  "createdAt": "2026-02-24T15:31:38.843849Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花図鑑",
+      "artist": "RIRIKO",
+      "has_synced": false,
+      "path": "select/pl_01_花図鑑_RIRIKO.txt"
+    }
+  ]
+}
